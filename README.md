@@ -34,6 +34,16 @@ tools, tutorials, articles and more. PRs are welcome!
             Better List Views
         </a>
     </td>
+        <td style="text-align: center">
+        <a href="https://blog.instabug.com/2018/01/how-to-write-a-bug-report-the-ideal-bug-report/">
+        <img src="https://blog.instabug.com/wp-content/uploads/2017/11/IdealBugReport_Blog_Artboard-1.jpg" width="170" height="90" style="
+            background: #d0d0d0;
+            padding: 10px;
+        " />
+        <br />
+            How to Write a Bug Report
+        </a>
+    </td>
 </tr></table></div>
 
 Have something that belongs under "Buzzing"? drop me a line:
